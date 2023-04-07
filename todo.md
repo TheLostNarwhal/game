@@ -1,6 +1,7 @@
 # Todo
 
 [] Come up with Game Idea
+[] Add names to the readme.md list
 
 ## Mike
 
@@ -8,8 +9,9 @@
 
 ## Hernan
 
-[] Add Your name to the list on readme.md
+[] Add name to the list 
 
 ## Completed
 
+[x] mike - added name to list
 [x] created repository

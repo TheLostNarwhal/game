@@ -9,9 +9,10 @@
 
 ## Hernan
 
-[] Add name to the list 
+[] Add name to the list
 
 ## Completed
 
 [x] mike - added name to list
 [x] created repository
+[x] added vite for live reloading

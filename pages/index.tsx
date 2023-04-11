@@ -1,14 +1,17 @@
+import SampleComponent from "../components/Sample-Component/Sample-component"
+import TheNavBar from "../components/NavBar/TheNavBar"
 const indexPage = () => {
   const containerStyle = {
     display: "flex",
+    justify: "center",
     width: "100%",
   }
   return (
   <>
-    {/* ToDo Create NAV BAR <NavBar />*/}
+    <TheNavBar />
     <div style={containerStyle}>
-      <h1>Index Page</h1>
     </div>
+    <SampleComponent />
   </>
   )
 }

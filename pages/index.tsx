@@ -1,5 +1,4 @@
 import SampleComponent from "../components/Sample-Component/Sample-component"
-import TheNavBar from "../components/NavBar/TheNavBar"
 const indexPage = () => {
   const containerStyle = {
     display: "flex",
@@ -8,7 +7,6 @@ const indexPage = () => {
   }
   return (
   <>
-    <TheNavBar />
     <div style={containerStyle}>
     </div>
     <SampleComponent />

@@ -1,0 +1,16 @@
+.flex {
+    width: 100%;
+    display: flex;
+}
+
+.end {
+    display: flex-end;
+}
+
+.center {
+    justify-content: center;
+}
+
+.biggerText{
+    font-size: 2em;
+}

@@ -11,7 +11,7 @@ const App = () => {
     <div style={{flexGrow:"1"}}>
       <IndexPage />
     </div>
-    <div style={{display: "flex", justifyContent: "center", minHeight: "100px", background: "black", color: "white"}}>
+    <div style={{display: "flex", justifyContent: "center", alignItems: "center", minHeight: "100px", background: "black", color: "white"}}>
       <p>I will be the footer</p>
     </div>
     {/*TODO  --- <Footer />*/}
